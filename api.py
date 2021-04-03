@@ -22,7 +22,7 @@ def predict():
          'context': context
          }    
          prediction = nlp(QA_input)
-         if prediction['score']>0.18:
+         if prediction['score']>0.19:
             return jsonify(prediction)
          else:
             return "Change The Question Please." 
