@@ -13,10 +13,9 @@ Also to make the user experience better we added a question answering bot to the
 
 <h3 align="Center">Features of our project:📌</h3>
 <ul>
-  <li>3D models of all the buildings in NITH</li>
-  <li>Minimap to view the map from above and to directly teleport to different locations</li>
-  <li>Reset button to move to the latest checkpoint crossed</li>
-  <li>Joystick for movement</li>
+  <li>3D models of Projects</li>
+  <li>Unity Environment</li>
+  <li>Question Answering Bot</li>
   </ul>
 <h3 align ="Center">Gallery🖼️</h3>
 <img align="center" src="https://user-images.githubusercontent.com/62131484/113925459-aaf0cc00-9808-11eb-905f-f2c11862edcc.jpg" width = "900" height="400" >
