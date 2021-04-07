@@ -1,15 +1,15 @@
 <h1 align="Center">  Hi, There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , We are Team Vibhav<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-<h2 align="Center">NIT Hamirpur VR</h2>
+<h2 align="Center">E Exhibition</h2>
 
 <h3 align="Center">Approach to the Solution:🚀</h3>
-We aim to replicate the NIT Hamirpur campus in a virtual world.
+We aim to create an interactive virtual environment for the exhibition of various hardware projects by their 3D models and interaction with a question answering bot.
+
 
 <h3 align="Center">Description of the Project:📜</h3>
-The NIT Hamirpur VR project is an one of its kind simulation of NITH campus with a simple user interface.
-The simulation incorporates the whole NITH campus, not just a single part or building.
-The project provides an opportunity for curious minds to further explore the idea behind the project and bring further innovations.
-
+Our objective is to create an interactive virtual environment for the exhibition of various hardware projects by their 3D models and interaction with a question answering bot.
+We made 3D models of the projects using Blender. After that we created an environment of exhibition hall in Unity. Then we added texture to the models and added some animations to give a better idea about how the project works. 
+Also to make the user experience better we added a question answering bot to the project that will resolve the user's queries regarding the project using NLP.
 
 <h3 align="Center">Features of our project:📌</h3>
 <ul>
