@@ -1,0 +1,7 @@
+[Unit]
+Description=Exhibition Backend Server
+[Service]
+WorkingDirectory=/opt/vibhav/exhibition
+ExecStart=/opt/vibhav/exhibition/venv/bin/python run.py
+[Install]
+WantedBy=multi-user.target
